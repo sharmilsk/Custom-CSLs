@@ -3,9 +3,9 @@
   <!-- Generated with https://github.com/citation-style-language/utilities/tree/master/generate_dependent_styles/data/bmj -->
   <info>
     <title>Test 1</title>
-    <id>https://csl.mendeley.com/styles/584299261/vancouver</id>
-    <link href="https://csl.mendeley.com/styles/584299261/vancouver" rel="self"/>
-    <link href="https://csl.mendeley.com/styles/584299261/vancouver" rel="independent-parent"/>
+    <id>https://csl.mendeley.com/styles/584299261/vancouver-1</id>
+    <link href="https://csl.mendeley.com/styles/584299261/vancouver-1" rel="self"/>
+    <link href="https://csl.mendeley.com/styles/584299261/vancouver-1" rel="independent-parent"/>
     <link href="http://www.nlm.nih.gov/bsd/uniform_requirements.html" rel="documentation"/>
     <category citation-format="numeric"/>
     <category field="medicine"/>
