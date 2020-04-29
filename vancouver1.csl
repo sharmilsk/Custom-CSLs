@@ -4,9 +4,9 @@
   <info>
     <title>Test 1</title>
     <id>https://csl.mendeley.com/styles/584299261/vancouver</id>
-    <link href="http://www.zotero.org/styles/vancouver" rel="self"/>
-    <link href="http://www.zotero.org/styles/vancouver" rel="independent-parent"/>
-    <link href="hhttp://www.nlm.nih.gov/bsd/uniform_requirements.html" rel="documentation"/>
+    <link href="https://csl.mendeley.com/styles/584299261/vancouver" rel="self"/>
+    <link href="https://csl.mendeley.com/styles/584299261/vancouver" rel="independent-parent"/>
+    <link href="http://www.nlm.nih.gov/bsd/uniform_requirements.html" rel="documentation"/>
     <category citation-format="numeric"/>
     <category field="medicine"/>
     <eissn>1757-790X</eissn>
